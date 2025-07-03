@@ -59,13 +59,6 @@ Built a medical chatbot that doesn't just give you generic responses but actuall
 
 **Nerd alert:** Uses vector databases for semantic search - basically, it understands what you're really asking, not just keyword matching
 
-## 🏆 Bragging rights (humble brag mode ON)
-
-- **🥇 Top 25 in HackWave ML** - Out of 1000+ teams, not bad for a college kid!
-- **🥈 Top 10 in Axis My India AIML** - Apparently, I'm decent at this AI stuff
-- **💻 250+ LeetCode problems** - Yes, I'm that person who actually enjoys algorithmic challenges
-- **🎓 9.67 CGPA** - My mom's favorite achievement to mention at parties
-
 ## 🎭 Random facts about me
 
 - 🇫🇷 Learning French because "Bonjour" sounds cooler than "Hello"
