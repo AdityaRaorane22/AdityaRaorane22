@@ -1,4 +1,4 @@
-# Yo! 👋 I'm Aditya - Welcome to my digital playground!
+# Hello! 👋 I'm Aditya Raorane - Welcome to my digital playground!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+cool+stuff+with+code;Turning+coffee+into+algorithms;AI+enthusiast+%26+problem+solver;Always+learning%2C+always+coding" alt="Typing SVG" />
@@ -81,16 +81,7 @@ Built a medical chatbot that doesn't just give you generic responses but actuall
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaRaorane22&theme=radical&hide_border=true" alt="Aditya's GitHub streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRaorane22&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🎵 Currently jamming to:
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing/AdityaRaorane22" alt="Spotify Playing" />
 </div>
 
 ## 💬 Let's chat!
