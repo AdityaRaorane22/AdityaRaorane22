@@ -29,7 +29,6 @@ Currently focused on building scalable web apps and intelligent systems that mak
 - **Hire360.ai:** AI assistant for mock interviews using facial and voice analysis.
 - **TurFit:** Turf booking app with matchmaking for local teams.
 - **ResearchRover:** Recommender for research papers using GNN + SBERT.
-- **Medical Chatbot:** RAG-based bot that responds to health queries with citations.
 
 ---
 
